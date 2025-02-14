@@ -1,4 +1,4 @@
-Application de Gestion des Employés (Employee Management)
+<h1>Application de Gestion des Employés (Employee Management)</h1>
 Cette application web de Gestion des Employés est construite avec Jakarta EE v9 et Maven. L'application permet aux utilisateurs d'effectuer des opérations CRUD de base (Créer, Lire, Mettre à jour, Supprimer) sur les enregistrements des employés.
 
 Fonctionnalités
